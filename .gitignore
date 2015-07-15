@@ -1,0 +1,13 @@
+old/
+test/
+src/test_old.py
+src/test.py
+src/*.pyf
+src/*.pyc
+src/*.mod
+src/*.so
+ad/ael/rana_fe/
+ad/rt/bb/rana_fe/
+ad/rt/bf/*.bin
+ad/rt/bf/*_idx.dat
+run/
