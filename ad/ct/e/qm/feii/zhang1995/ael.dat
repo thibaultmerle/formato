@@ -1,0 +1,39 @@
+#E[cm⁻¹]      g  configuration                       term   ref
+  416.2702    30 3d6.(5D).4s                         a6D        e ZHANG95
+ 2416.2589    28 3d7                                 a4F        e ZHANG95
+ 8320.1738    20 3d6.(5D).4s                         a4D        e ZHANG95
+13612.5487    12 3d7                                 a4P        e ZHANG95
+21420.9077    12 3d6.(3P2).4s                        b4P        e ZHANG95
+21459.1828    44 3d6.(3H).4s                         a4H        e ZHANG95
+22807.8829    28 3d6.(3F2).4s                        b4F        e ZHANG95
+25760.5310    36 3d6.(3G).4s                         a4G        e ZHANG95
+31419.5505    20 3d6.(3D).4s                         b4D        e ZHANG95
+38709.7664    30 3d6.(5D).4p                         z6D*       o ZHANG95
+42170.2753    42 3d6.(5D).4p                         z6F*       o ZHANG95
+43065.5577    18 3d6.(5D).4p                         z6P*       o ZHANG95
+44714.3522    28 3d6.(5D).4p                         z4F*       o ZHANG95
+44743.6364    20 3d6.(5D).4p                         z4D*       o ZHANG95
+47218.1398    12 3d6.(5D).4p                         z4P*       o ZHANG95
+49792.0286    12 3d6.(3P1).4s                        c4P        e ZHANG95
+50151.5229    28 3d6.(3F1).4s                        c4F        e ZHANG95
+59663.0835     4 3d6.(3P2).4p                        z4S*       o ZHANG95
+60818.2517    12 3d6.(3P2).4p                        y4P*       o ZHANG95
+60819.0442    36 3d6.(3H).4p                         z4G*       o ZHANG95
+60943.7679    44 3d6.(3H).4p                         z4H*       o ZHANG95
+61482.8659    52 3d6.(3H).4p                         z4I*       o ZHANG95
+62142.6766    28 3d6.(3F2).4p                        y4F*       o ZHANG95
+62372.6076    20 3d6.(3P2).4p                        y4D*       o ZHANG95
+63209.2450    20 3d6.(3F2).4p                        x4D*       o ZHANG95
+63967.8956    36 3d6.(3F2).4p                        y4G*       o ZHANG95
+65773.5013    36 3d6.(3G).4p                         x4G*       o ZHANG95
+66311.6757    28 3d6.(3G).4p                         x4F*       o ZHANG95
+66513.4356    44 3d6.(3G).4p                         y4H*       o ZHANG95
+72031.9426    12 3d6.(3D).4p                         w4P*       o ZHANG95
+72408.2110    28 3d6.(3D).4p                         w4F*       o ZHANG95
+72594.4195    20 3d6.(3D).4p                         w4D*       o ZHANG95
+86749.6559    20 3d6.(3P1).4p                        v4D*       o ZHANG95
+90012.7073    36 3d6.(3F1).4p                        4G*        o ZHANG95
+90629.8578     4 3d6.(3P1).4p                        4S*        o ZHANG95
+91576.3421    12 3d6.(3P1).4p                        4P*        o ZHANG95
+92896.5919    20 3d6.(3F1).4p                        4D*        o ZHANG95
+93443.7578    28 3d6.(3F1).4p                        u4F*       o ZHANG95
